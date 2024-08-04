@@ -1,11 +1,4 @@
 # CUDESA
-=====================================================
-CUDESA Release 1.0 
-Copyright 2007-2009 Regents of the University of Wisconsin
-Authors: David Dynerman, Julie C. Mitchell
-http://www.mitchell-lab.org
-=====================================================
-
 This is release 1.0 of the CUDESA GPU desolvation code. This work
 appeared in the April 2009 issue of the Journal of Computational
 Biology. Please acknowledge your use of this work by citing:
